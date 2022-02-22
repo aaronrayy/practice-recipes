@@ -6,6 +6,18 @@ body {
     color: antiquewhite;
 } */
 
+h3:hover {
+    color: lightblue;
+}
+
+a:hover {
+    color: lightcoral;
+}
+
 .aclass {
+    color: antiquewhite;
+}
+
+.links {
     color: antiquewhite;
 }
